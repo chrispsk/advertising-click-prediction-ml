@@ -56,7 +56,7 @@ The results show that the dataset is highly structured and nearly linearly separ
 
 ### Model Accuracy Comparison
 
-![Model Accuracy Comparison](images/compare_accuracy.png)
+![Model Accuracy Comparison](images/Compare_accuracy.png)
 
 ### Logistic Regression Confusion Matrix
 
