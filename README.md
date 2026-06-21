@@ -48,6 +48,36 @@ The best-performing models were:
 
 The results show that the dataset is highly structured and nearly linearly separable. Logistic Regression performed as well as the TensorFlow neural network, suggesting that simpler interpretable models can be highly effective when features are well engineered.
 
+## Visual Results
+
+### Correlation Analysis
+
+![Correlation Heatmap](images/corr_heatmap.png)
+
+### Model Accuracy Comparison
+
+![Model Accuracy Comparison](images/compare_accuracy.png)
+
+### Logistic Regression Confusion Matrix
+
+![Logistic Regression Confusion Matrix](images/lr_conf_matrix.png)
+
+### TensorFlow Confusion Matrix
+
+![TensorFlow Confusion Matrix](images/tensor_conf_matrix.png)
+
+### Class Separation Pairplot
+
+![Pairplot](images/pairplot.png)
+
+### Probability Distribution Analysis
+
+![Probability Distribution](images/probability.png)
+
+### TensorFlow Training Curves
+
+![TensorFlow Training and Validation Curves](images/val_tensor.png)
+
 ## Key Findings
 
 - Older users were more likely to click ads.
